@@ -1,0 +1,7 @@
+server:
+  port: 9003
+aws:
+  accessKeyId:
+  secretKey:
+  region: us-east-2
+  bucketName: veera-test-bucket-new
